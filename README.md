@@ -44,7 +44,7 @@ Refer to [Explain Shell](https://explainshell.com/) to get a detailed descriptio
 Sometimes we may run in to troubles when one of our web-server or site is down,We should be able to identify this 
 problem which are likely causing the issues and fix the problem.
 
-1. [Remote Service is Down](./SITE_IS_DOWN.md)
-1. [Network Failure](./NETWORK_FAILURE.md)
-1. [Performance Issue](./PERFORMANCE_ISSUES.md)
+1. [Remote Service is Down](documents/SITE_IS_DOWN.md)
+1. [Network Failure](documents/NETWORK_FAILURE.md)
+1. [Performance Issue](documents/PERFORMANCE_ISSUES.md)
 

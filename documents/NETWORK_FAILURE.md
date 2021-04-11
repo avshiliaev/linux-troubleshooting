@@ -4,7 +4,7 @@ First, let’s take a moment to review the fundamentals of the TCP/IP network mo
 Open Systems Interconnection (OSI) model to discuss network theory, the TCP/IP model more accurately represents the 
 suite of protocols that are deployed in modern networks.
 
-![tcpip](./TCPIP_OSI_0.png)
+![tcpip](./img/TCPIP_OSI_0.png)
 
 The layers in the TCP/IP network model, in order, include:
 

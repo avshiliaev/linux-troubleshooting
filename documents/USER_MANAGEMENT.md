@@ -30,3 +30,6 @@
         rwx r-x r-x     chmod 755 filename
         rw- rw- r--     chmod 664 filename
         rw- r-- r--     chmod 644 filename
+
+
+![linux-permissions](./img/linux-permissions-chart.png)

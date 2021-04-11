@@ -1,30 +1,29 @@
-# Display the user and group ids of your current user.
+###### Display the user and group ids of your current user.
 `id`
 
-# Display the last users who have logged onto the system.
+###### Display the last users who have logged onto the system.
 `last`
 
-# Show who is logged into the system.
+###### Show who is logged into the system.
 `who`
 
-# Show who is logged in and what they are doing.
+###### Show who is logged in and what they are doing.
 `w`
 
-# Create a group named "test".
+###### Create a group named "test".
 `groupadd test`
 
-# Create an account named john, with a comment of "John Smith" and create the user's home directory.
+###### Create an account named john, with a comment of "John Smith" and create the user's home directory.
 `useradd -c "John Smith" -m john`
 
-# Delete the john account.
+###### Delete the john account.
 `userdel john`
 
-# Add the john account to the sales group
+###### Add the john account to the sales group
 `usermod -aG sales john`
 
-
-        PERMISSION      EXAMPLE
-
+###### PERMISSIONS EXAMPLE
+        
          U   G   W
         rwx rwx rwx     chmod 777 filename
         rwx rwx r-x     chmod 775 filename

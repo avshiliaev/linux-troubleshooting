@@ -1,3 +1,7 @@
+https://www.redhat.com/sysadmin
+https://geekflare.com/cheat-sheet-system-admin/
+https://linuxconfig.org/gnu-linux-general-troubleshooting-guide-for-beginners
+
 # Start in Docker
 
 To run a disposable new container, you can simply attach a tty and standard input:
